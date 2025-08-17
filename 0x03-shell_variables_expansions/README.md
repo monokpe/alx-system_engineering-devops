@@ -6,3 +6,6 @@ The script `0-alias` is a bash script that creates an alias named `ls` with the 
 
 ## 1. Hello you
 The script `1-hello_you` is a bash script that prints "hello user", where "user" is the current Linux username..
+
+## 2. The path to success is to take massive, determined action
+The script `2-path` adds the directory `/action` to the end of the `PATH` environment variable. The new directory will be the last one the shell checks when looking for a program.
